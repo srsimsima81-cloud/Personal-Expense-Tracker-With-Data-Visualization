@@ -1,0 +1,201 @@
+Date,Category,Amount,Payment_Method,Description
+2025-01-28,Health,4063,Cash,Medicine
+2025-06-16,Bills,3526,UPI,Online Shopping
+2025-01-01,Shopping,4139,Credit Card,Movie
+2025-06-23,Health,2677,Cash,Online Shopping
+2025-04-05,Education,4258,Debit Card,Book Purchase
+2025-06-14,Shopping,686,UPI,Bus Fare
+2025-05-18,Health,374,Cash,Medicine
+2025-06-05,Health,1390,Cash,Lunch
+2025-06-17,Bills,1548,Cash,Movie
+2025-01-08,Entertainment,2061,Credit Card,Medicine
+2025-06-25,Shopping,185,UPI,Lunch
+2025-05-10,Health,1272,Credit Card,Medicine
+2025-06-28,Food,586,UPI,Medicine
+2025-04-10,Food,1007,Credit Card,Online Shopping
+2025-02-07,Shopping,603,Credit Card,Medicine
+2025-05-30,Food,270,Debit Card,Lunch
+2025-05-18,Entertainment,2932,Credit Card,Book Purchase
+2025-06-15,Health,2539,Cash,Online Shopping
+2025-02-02,Education,3694,Credit Card,Book Purchase
+2025-05-27,Shopping,4696,UPI,Movie
+2025-02-09,Bills,915,Debit Card,Bus Fare
+2025-01-24,Entertainment,4845,UPI,Electricity Bill
+2025-05-22,Health,2998,Debit Card,Movie
+2025-05-09,Education,496,Debit Card,Electricity Bill
+2025-01-22,Bills,4876,Credit Card,Online Shopping
+2025-04-19,Entertainment,2784,Cash,Electricity Bill
+2025-05-21,Travel,3138,Debit Card,Electricity Bill
+2025-01-25,Travel,1014,Cash,Book Purchase
+2025-06-17,Shopping,4617,UPI,Movie
+2025-01-23,Education,1272,Cash,Book Purchase
+2025-06-16,Education,2205,Credit Card,Bus Fare
+2025-04-29,Travel,1909,Debit Card,Book Purchase
+2025-06-26,Bills,3953,Cash,Online Shopping
+2025-02-13,Food,514,Credit Card,Electricity Bill
+2025-01-16,Travel,1253,Cash,Movie
+2025-05-27,Travel,4278,UPI,Electricity Bill
+2025-01-06,Food,2882,UPI,Movie
+2025-03-25,Food,208,Debit Card,Electricity Bill
+2025-06-26,Education,1734,Cash,Bus Fare
+2025-03-11,Health,154,Cash,Lunch
+2025-01-08,Entertainment,484,Cash,Movie
+2025-05-03,Bills,480,Credit Card,Electricity Bill
+2025-02-21,Shopping,3105,Debit Card,Bus Fare
+2025-05-28,Travel,4350,Debit Card,Medicine
+2025-01-07,Travel,510,Credit Card,Lunch
+2025-05-31,Food,2540,Debit Card,Book Purchase
+2025-05-31,Entertainment,590,Debit Card,Online Shopping
+2025-04-24,Bills,3871,Debit Card,Lunch
+2025-01-02,Travel,2645,Cash,Bus Fare
+2025-06-25,Health,1735,Debit Card,Movie
+2025-06-30,Entertainment,4309,UPI,Movie
+2025-06-29,Travel,3418,Cash,Electricity Bill
+2025-03-01,Shopping,2494,UPI,Online Shopping
+2025-01-26,Food,1271,Credit Card,Bus Fare
+2025-03-20,Entertainment,4144,UPI,Online Shopping
+2025-06-23,Education,2577,Debit Card,Online Shopping
+2025-04-23,Travel,4958,Credit Card,Medicine
+2025-06-28,Bills,1486,Cash,Bus Fare
+2025-06-18,Entertainment,3086,Cash,Bus Fare
+2025-04-23,Food,1804,UPI,Medicine
+2025-03-03,Shopping,3151,Credit Card,Electricity Bill
+2025-03-05,Education,138,UPI,Movie
+2025-05-29,Health,2057,Debit Card,Online Shopping
+2025-04-27,Education,3009,UPI,Medicine
+2025-02-23,Travel,3380,Credit Card,Lunch
+2025-06-06,Travel,1627,UPI,Online Shopping
+2025-06-15,Bills,1049,Debit Card,Lunch
+2025-06-21,Education,3606,Debit Card,Electricity Bill
+2025-04-22,Food,4921,Credit Card,Electricity Bill
+2025-04-05,Entertainment,4608,Debit Card,Medicine
+2025-06-14,Bills,3807,Debit Card,Bus Fare
+2025-01-23,Shopping,3460,Cash,Movie
+2025-06-29,Health,1520,Credit Card,Movie
+2025-03-12,Health,2668,Cash,Electricity Bill
+2025-02-12,Travel,3868,Credit Card,Online Shopping
+2025-05-27,Bills,4248,Debit Card,Movie
+2025-06-19,Shopping,4698,UPI,Movie
+2025-05-01,Entertainment,786,UPI,Bus Fare
+2025-01-18,Bills,2529,Credit Card,Online Shopping
+2025-02-20,Education,824,Cash,Movie
+2025-03-25,Travel,2193,Credit Card,Bus Fare
+2025-03-24,Health,1674,UPI,Medicine
+2025-05-28,Entertainment,2117,UPI,Bus Fare
+2025-02-17,Food,1319,Debit Card,Electricity Bill
+2025-01-14,Travel,1349,Cash,Lunch
+2025-03-10,Travel,1204,Cash,Electricity Bill
+2025-06-06,Shopping,259,UPI,Movie
+2025-06-06,Health,3383,UPI,Movie
+2025-01-04,Travel,2132,Debit Card,Medicine
+2025-04-07,Bills,4113,Cash,Bus Fare
+2025-01-21,Education,1049,UPI,Movie
+2025-06-12,Bills,4626,Cash,Lunch
+2025-06-12,Bills,3563,UPI,Lunch
+2025-06-18,Shopping,4567,Cash,Online Shopping
+2025-02-15,Entertainment,1626,Cash,Book Purchase
+2025-02-25,Travel,1426,Debit Card,Online Shopping
+2025-05-21,Education,3681,Cash,Medicine
+2025-01-28,Entertainment,874,Debit Card,Electricity Bill
+2025-02-24,Bills,171,Cash,Medicine
+2025-03-10,Entertainment,2533,Cash,Medicine
+2025-05-02,Travel,1536,Cash,Lunch
+2025-05-30,Bills,3997,Debit Card,Lunch
+2025-05-22,Shopping,4368,Credit Card,Book Purchase
+2025-02-25,Health,159,Cash,Book Purchase
+2025-01-21,Entertainment,2355,Debit Card,Movie
+2025-05-01,Bills,3091,UPI,Bus Fare
+2025-04-01,Health,1599,Cash,Medicine
+2025-03-16,Bills,3222,UPI,Online Shopping
+2025-02-13,Health,2052,Cash,Online Shopping
+2025-03-02,Shopping,4664,UPI,Lunch
+2025-05-11,Travel,2725,UPI,Movie
+2025-06-20,Bills,2635,Credit Card,Online Shopping
+2025-03-19,Bills,363,UPI,Bus Fare
+2025-03-19,Shopping,2265,Credit Card,Online Shopping
+2025-04-06,Health,4580,UPI,Movie
+2025-05-21,Travel,4487,Debit Card,Electricity Bill
+2025-04-29,Shopping,3230,UPI,Book Purchase
+2025-03-08,Health,2657,Debit Card,Medicine
+2025-02-02,Health,3828,Debit Card,Lunch
+2025-06-16,Travel,225,UPI,Medicine
+2025-05-30,Education,4956,UPI,Online Shopping
+2025-02-01,Education,961,Credit Card,Book Purchase
+2025-02-19,Travel,4140,Cash,Lunch
+2025-06-20,Food,1196,Credit Card,Bus Fare
+2025-01-14,Travel,3270,Debit Card,Lunch
+2025-04-08,Food,1266,UPI,Bus Fare
+2025-03-07,Food,2509,UPI,Electricity Bill
+2025-02-23,Travel,3889,Debit Card,Online Shopping
+2025-05-30,Health,788,Credit Card,Lunch
+2025-04-05,Health,3073,Credit Card,Medicine
+2025-05-18,Entertainment,1758,UPI,Electricity Bill
+2025-01-19,Shopping,210,UPI,Book Purchase
+2025-03-26,Health,1045,UPI,Lunch
+2025-02-20,Travel,2960,Debit Card,Bus Fare
+2025-05-24,Entertainment,2491,UPI,Lunch
+2025-06-10,Entertainment,1858,Cash,Electricity Bill
+2025-03-20,Food,2957,UPI,Book Purchase
+2025-04-06,Food,4335,Debit Card,Lunch
+2025-06-03,Health,520,Cash,Book Purchase
+2025-03-26,Travel,664,Credit Card,Electricity Bill
+2025-06-12,Bills,2180,UPI,Electricity Bill
+2025-01-05,Entertainment,2711,UPI,Lunch
+2025-04-25,Education,475,Cash,Medicine
+2025-04-23,Entertainment,3125,Credit Card,Bus Fare
+2025-01-13,Food,2734,Cash,Electricity Bill
+2025-02-02,Shopping,831,Debit Card,Lunch
+2025-04-16,Food,2310,Cash,Online Shopping
+2025-04-02,Entertainment,3425,Credit Card,Electricity Bill
+2025-03-05,Education,2393,Credit Card,Lunch
+2025-06-14,Travel,4339,Credit Card,Electricity Bill
+2025-05-10,Bills,3943,Credit Card,Book Purchase
+2025-05-13,Travel,3578,Debit Card,Electricity Bill
+2025-06-04,Education,2582,UPI,Lunch
+2025-03-26,Entertainment,2117,Debit Card,Online Shopping
+2025-02-26,Shopping,2528,Cash,Lunch
+2025-05-02,Travel,1838,Cash,Book Purchase
+2025-06-24,Travel,3425,Cash,Lunch
+2025-01-30,Travel,3461,Debit Card,Movie
+2025-05-29,Entertainment,2509,Cash,Book Purchase
+2025-05-13,Food,3364,UPI,Electricity Bill
+2025-03-29,Health,4604,UPI,Bus Fare
+2025-05-16,Entertainment,491,Cash,Lunch
+2025-06-17,Food,2987,Debit Card,Medicine
+2025-01-25,Food,3985,Debit Card,Lunch
+2025-04-17,Travel,3983,UPI,Online Shopping
+2025-03-31,Education,3823,Debit Card,Electricity Bill
+2025-02-06,Education,1424,Debit Card,Medicine
+2025-03-06,Bills,527,Debit Card,Online Shopping
+2025-05-01,Travel,1216,Credit Card,Bus Fare
+2025-03-12,Bills,109,UPI,Bus Fare
+2025-01-16,Health,4755,Credit Card,Medicine
+2025-05-02,Education,2841,UPI,Electricity Bill
+2025-06-11,Shopping,3345,Credit Card,Book Purchase
+2025-05-03,Shopping,472,Debit Card,Book Purchase
+2025-04-21,Health,695,Debit Card,Medicine
+2025-06-30,Food,2667,Debit Card,Medicine
+2025-06-20,Entertainment,1193,Debit Card,Online Shopping
+2025-02-21,Entertainment,4229,Credit Card,Online Shopping
+2025-01-13,Education,3297,UPI,Online Shopping
+2025-03-12,Shopping,219,Credit Card,Online Shopping
+2025-02-06,Education,1662,Cash,Electricity Bill
+2025-01-29,Health,1371,UPI,Bus Fare
+2025-06-16,Health,895,Cash,Medicine
+2025-03-13,Education,1377,Debit Card,Book Purchase
+2025-05-10,Shopping,3801,UPI,Bus Fare
+2025-04-01,Travel,686,UPI,Medicine
+2025-04-06,Education,68,Cash,Movie
+2025-02-14,Education,4727,Debit Card,Electricity Bill
+2025-05-26,Health,312,Cash,Bus Fare
+2025-06-22,Education,2187,Credit Card,Medicine
+2025-05-04,Travel,1611,Debit Card,Electricity Bill
+2025-04-24,Travel,1936,Cash,Bus Fare
+2025-06-19,Health,3462,Credit Card,Electricity Bill
+2025-06-25,Shopping,3619,Debit Card,Lunch
+2025-04-04,Shopping,290,Debit Card,Electricity Bill
+2025-03-13,Travel,1671,Cash,Movie
+2025-03-13,Education,2279,Cash,Book Purchase
+2025-05-19,Education,1402,Cash,Electricity Bill
+2025-06-01,Food,3158,Cash,Electricity Bill
+2025-06-07,Entertainment,2633,Debit Card,Book Purchase

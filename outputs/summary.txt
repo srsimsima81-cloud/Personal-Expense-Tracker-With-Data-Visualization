@@ -1,0 +1,38 @@
+
+EXPENSE SUMMARY REPORT
+======================
+
+TOTAL SPENDING: ₹476982
+
+HIGHEST CATEGORY: Travel
+
+AVERAGE DAILY SPENDING: ₹3974.85
+
+CATEGORY DATA:
+Category
+Bills            64828
+Education        64997
+Entertainment    68674
+Food             50790
+Health           64899
+Shopping         66502
+Travel           96292
+Name: Amount, dtype: int64
+
+MONTHLY DATA:
+Month
+2025-01     70857
+2025-02     54835
+2025-03     60026
+2025-04     72318
+2025-05     98878
+2025-06    120068
+Name: Amount, dtype: int64
+
+PAYMENT DATA:
+Payment_Method
+Cash           108253
+Credit Card    104672
+Debit Card     131881
+UPI            132176
+Name: Amount, dtype: int64
