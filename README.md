@@ -128,17 +128,7 @@ streamlit run app.py
 
 ---
 
-## 📷 Screenshots
 
-(Add these in your GitHub repo)
-
-- Dashboard UI
-- Bar chart visualization
-- Pie chart visualization
-- Line chart visualization
-- Summary report output
-
----
 
 ## 📈 Future Improvements
 
